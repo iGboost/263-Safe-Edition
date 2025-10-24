@@ -86,7 +86,7 @@ struct AppInfoSection: View {
                     )
                 
                 VStack(spacing: 4) {
-                    Text("Fortune Tiger")
+                    Text("Safe Edition")
                         .font(AppTheme.Typography.title2)
                         .fontWeight(.bold)
                     

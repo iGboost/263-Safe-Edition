@@ -15,7 +15,7 @@ struct OnboardingView: View {
         OnboardingPage(
             icon: "pawprint.fill",
             title: "Unleash Your Inner Strength",
-            description: "Welcome to Fortune Tiger, your companion for building discipline and achieving daily goals with the power of the tiger spirit.",
+            description: "Welcome to Safe Edition, your companion for building discipline and achieving daily goals with the power of the tiger spirit.",
             color: AppTheme.Colors.primary
         ),
         OnboardingPage(

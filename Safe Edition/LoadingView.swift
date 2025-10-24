@@ -52,7 +52,7 @@ struct LoadingView: View {
 
                 // App Name
                 VStack(spacing: AppTheme.Spacing.xs) {
-                    Text("Fortune Tiger")
+                    Text("Safe Edition")
                         .font(AppTheme.Typography.largeTitle)
                         .fontWeight(.bold)
                         .foregroundColor(AppTheme.Colors.primary)
