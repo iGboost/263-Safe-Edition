@@ -15,7 +15,7 @@ struct HomeView: View {
         ScrollView {
             VStack(spacing: AppTheme.Spacing.lg) {
                 // Header
-                CustomNavigationBar(title: "Fortune Tiger")
+                CustomNavigationBar(title: "Safe Edition")
 
                 VStack(spacing: AppTheme.Spacing.xl) {
                     // Welcome Section
